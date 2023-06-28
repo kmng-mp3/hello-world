@@ -1,2 +1,2 @@
 # hello-world
-hajimete no gifhub
+hajimete no github
